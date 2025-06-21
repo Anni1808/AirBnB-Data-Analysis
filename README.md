@@ -73,8 +73,7 @@ Each chart is connected to filter controls:
 
 ## 📁 Files in this Repo
 
-- `Airbnb_Open_Data.csv` – raw dataset
-- `Cleaned_Airbnb_Data.xlsx` – cleaned version for Tableau
+- `Airbnb_Open_Data.csv` – raw dataset then cleaned
 - `README.md` – project documentation
 - `.twbx` or `.twb` file – Tableau dashboard (optional)
 
